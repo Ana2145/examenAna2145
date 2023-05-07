@@ -1,1 +1,1 @@
-print("primer comentario")
+print("primer comentario, con reset")
