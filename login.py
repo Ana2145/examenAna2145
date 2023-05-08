@@ -1,2 +1,1 @@
-print("primer comentario de login")
-print("segundo cambio de login")
+print("comentario, se pasara este archivo a main")
